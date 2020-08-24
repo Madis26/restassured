@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="465fbb96-6fb9-41ff-b6c9-b88e31803bc8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="modularbank-api" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="modularbank-api" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="modularbank-api" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="modularbank-api" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gOfuCstZrvRVzmn1oEAOqc6x1p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\madis\Documents\modularbank-api" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Run Tests">
+    <configuration name="CreateAccountTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;CreateAccountTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CreateAccountTests.createAccount_OK" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;CreateAccountTests.createAccount_OK&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CreateTransactionsTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;CreateTransactionsTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="InitializeConfirmPaymentsTest.ConfirmPaymentRequestNoErrorsRespondsOk" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;InitializeConfirmPaymentsTest.ConfirmPaymentRequestNoErrorsRespondsOk&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="InitializeConfirmPaymentsTests.ConfirmPayment_OK" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;InitializeConfirmPaymentsTests.ConfirmPayment_OK&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Run Tests" type="GradleRunConfiguration" factoryName="Gradle">
+      <output_file path="$PROJECT_DIR$/log" is_save="true" />
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.InitializeConfirmPaymentsTest.ConfirmPaymentRequestNoErrorsRespondsOk" />
+        <item itemvalue="Gradle.CreateAccountTests" />
+        <item itemvalue="Gradle.CreateAccountTests.createAccount_OK" />
+        <item itemvalue="Gradle.InitializeConfirmPaymentsTests.ConfirmPayment_OK" />
+        <item itemvalue="Gradle.CreateTransactionsTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="465fbb96-6fb9-41ff-b6c9-b88e31803bc8" name="Default Changelist" comment="" />
+      <created>1597990779114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597990779114</updated>
+      <workItem from="1597990783727" duration="43890000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="324" y="50" key="#Project_Structure" timestamp="1598276456490">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="324" y="50" key="#Project_Structure/0.0.1463.783/2560.0.2560.1400@0.0.1463.783" timestamp="1598276456490" />
+    <state x="459" y="18" key="#Tests_in_'modularbank-api.test'" timestamp="1598264772884">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="459" y="18" key="#Tests_in_'modularbank-api.test'/0.0.1463.783/2560.0.2560.1400@0.0.1463.783" timestamp="1598264772884" />
+    <state x="537" y="101" key="#com.intellij.ide.util.MemberChooser" timestamp="1598011782069">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="537" y="101" key="#com.intellij.ide.util.MemberChooser/0.0.1463.783/2560.0.2560.1400@0.0.1463.783" timestamp="1598011782069" />
+    <state x="463" y="167" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1597997054558">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="463" y="167" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1463.783/2560.0.2560.1400@0.0.1463.783" timestamp="1597997054558" />
+    <state x="462" y="138" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598260552170">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="462" y="138" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1463.783/2560.0.2560.1400@0.0.1463.783" timestamp="1598260552170" />
+    <state x="462" y="138" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1463.783@0.0.1463.783" timestamp="1598203913066" />
+    <state x="412" y="51" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1598273959434">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="412" y="51" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1463.783/2560.0.2560.1400@0.0.1463.783" timestamp="1598273959434" />
+    <state x="512" y="146" key="FileChooserDialogImpl" timestamp="1598264708661">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="512" y="146" key="FileChooserDialogImpl/0.0.1463.783/2560.0.2560.1400@0.0.1463.783" timestamp="1598264708661" />
+    <state width="1420" height="193" key="GridCell.Tab.0.bottom" timestamp="1598276462185">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="193" key="GridCell.Tab.0.bottom/0.0.1463.783/2560.0.2560.1400@0.0.1463.783" timestamp="1598276462185" />
+    <state width="1420" height="141" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1598208604850" />
+    <state width="1420" height="193" key="GridCell.Tab.0.center" timestamp="1598276462185">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="193" key="GridCell.Tab.0.center/0.0.1463.783/2560.0.2560.1400@0.0.1463.783" timestamp="1598276462185" />
+    <state width="1420" height="141" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1598208604850" />
+    <state width="1420" height="193" key="GridCell.Tab.0.left" timestamp="1598276462185">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="193" key="GridCell.Tab.0.left/0.0.1463.783/2560.0.2560.1400@0.0.1463.783" timestamp="1598276462185" />
+    <state width="1420" height="141" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1598208604849" />
+    <state width="1420" height="193" key="GridCell.Tab.0.right" timestamp="1598276462185">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="193" key="GridCell.Tab.0.right/0.0.1463.783/2560.0.2560.1400@0.0.1463.783" timestamp="1598276462185" />
+    <state width="1420" height="141" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1598208604850" />
+    <state x="3342" y="343" key="SettingsEditor" timestamp="1598255982746">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3342" y="343" key="SettingsEditor/0.0.1463.783/2560.0.2560.1400@2560.0.2560.1400" timestamp="1598255982746" />
+    <state x="382" y="6" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598274596400">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="382" y="6" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1463.783/2560.0.2560.1400@0.0.1463.783" timestamp="1598274596400" />
+    <state x="3366" y="-23" width="1079" height="601" maximized="true" key="dock-window-1" timestamp="1598274915054">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3366" y="-23" width="1079" height="601" maximized="true" key="dock-window-1/0.0.1463.783/2560.0.2560.1400@0.0.1463.783" timestamp="1598274915054" />
+    <state x="2560" y="60" width="1079" height="601" key="dock-window-1/0.0.1463.783/2560.0.2560.1400@2560.0.2560.1400" timestamp="1598256315599" />
+    <state x="159" y="3" key="new project wizard" timestamp="1597991224857">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="159" y="3" key="new project wizard/0.0.1463.783/2560.0.2560.1400@0.0.1463.783" timestamp="1597991224857" />
+  </component>
+</project>

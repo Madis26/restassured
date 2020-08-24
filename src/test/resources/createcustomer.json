@@ -1,0 +1,46 @@
+{
+  "activityCode": "ACTIVE",
+  "birthDate": "1978-02-28",
+  "email": "qa{{$timestamp}}@modularbank.co",
+  "id": "{{$guid}}",
+  "identificationNumber": {
+    "idCountryCode": "FI",
+    "idNumber": "{{$randomPhoneNumber}}"
+  },
+  "name": "{{$randomFullName}}",
+  "personTypeCode": "P",
+  "sex": "M",
+  "placeOfBirth": "Helsinki",
+  "taxResidencyCountry": "FI",
+  "buildingTypeCode": "APARTMENT",
+  "businessAreaCode": "FINANCE",
+  "acitivityCode": "EMPLOYEE",
+  "dependantPersons": 1,
+  "maritalStatusCode": "SINGLE",
+  "nationality": "FI",
+  "countryOfBirth": "FI",
+  "language": "FI",
+  "usResident": false,
+  "pep": false,
+  "educationCode": "HIGHER_EDUCATION",
+  "employmentTimeCode": "UP_4_YEAR",
+  "fixedEmploymentLength": 5,
+  "phoneNumber": "{{$randomPhoneNumber}}",
+  "address": {
+    "addressTypeCode": "R",
+    "cityCounty": "Helsinki",
+    "countryCode": "FI",
+    "stateRegion": "Uusimaa",
+    "street1": "Ratamestarinkatu 12",
+    "zip": "30800101",
+    "moveInDate": "2018-01-20"
+  },
+  "correspondenceAddress": {
+    "addressTypeCode": "C",
+    "cityCounty": "Helsinki",
+    "countryCode": "FI",
+    "stateRegion": "Uusimaa",
+    "street1": "Ratamestarinkatu 12",
+    "zip": "30800101"
+  }
+}

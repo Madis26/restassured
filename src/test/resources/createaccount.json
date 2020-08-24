@@ -1,0 +1,14 @@
+{
+  "accountName": "Demo account",
+  "accountTypeCode": "CURRENCY",
+  "currencyCode": "EUR",
+  "customerGroupCode": "GROUP_A",
+  "personId": "{{personId}}",
+  "personName":"{{name}}",
+  "priceListTypeCode": "STANDARD",
+  "residencyCountryCode": "FI",
+  "source": {
+    "sourceName": "TEST",
+    "sourceRef": "{{$guid}}"
+  }
+}
